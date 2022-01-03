@@ -3,8 +3,11 @@ Nezus is a spam tool for discord. The most important and the best comand is the 
 
 # HOW TO USE
 First you have to install it, only for windows.
+
 You have to open the file.
+
 Wait for the console to close.
+
 And the interface will start.
 
 # CONTACT
