@@ -8,7 +8,7 @@ You have to open the file.
 
 Wait for the console to close.
 
-And the interface will start.
+And the interface will start where everything will be shown simply.
 
 # CONTACT
 Discord: GHCyber#0069
